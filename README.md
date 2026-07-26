@@ -56,4 +56,4 @@ Match IDs should follow the `LEAGUE<number>-<matchNumber>` format, e.g. `PSL1-1`
 
 Built for **Data Structures and Algorithms (COMP 200-A)**, Assignment 3, Forman Christian College University.
 
-**Status:** Complete, submission-ready.
+**Status:** Complete.
